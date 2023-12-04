@@ -22,8 +22,11 @@ Now make the following installations using pip install
 In .env file used to store values of the API tokens for different APIs used.
 
 Bill Extractor App - Returns a .csv file compiling information from various bills that are uploaded.
+
 Chatbot App - is a multidocument chatbot to which one can pose questions related to information contained in the documents uploaded. 
+
 Image-Text App - generates a recipe that can be prepared using ingredients in the uploaded image, suing LLM and Huggingface for image to text translation; needs a huggingface API.
+
 Newsletter App - will generate a short article compiling recent information on a given topic. Internally uses google search for information search using serperapi.
 
 
