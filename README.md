@@ -19,6 +19,7 @@ Now make the following installations using pip install
 9. transformers
 10. torch
 
+In .env file used to store values of the API tokens for different APIs used.
 
 
  
